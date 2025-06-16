@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jinhong Wang (王锦鸿)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/me.jpeg"
   bio              : "<i>既然上了生活的贼船，就要做快乐的海盗</i>"
   location         : "Hangzhou, China"
   employer         :
