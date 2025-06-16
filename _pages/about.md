@@ -79,6 +79,35 @@ I am also interested **Medical Image Analysis**, **Computer Vision**, and **Gene
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/iccv2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OrderChain: A General Prompting Paradigm to Improve Ordinal Understanding Ability of MLLM](https://arxiv.org/pdf/2504.04801)
+
+**Jinhong Wang**, Shuo Tong, Jian Liu, Dongqi Tang, Weiqiang Wang, Wentong Li, Hongxia Xu, Danny Chen, Jintai Chen, Jian Wu
+
+<!-- [🧑🏻‍💻 **Code**](https://github.com/wjh892521292/Ord2Seq) &ensp; [🌐 **Project Page**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=gyU139cAAAAJ&citation_for_view=gyU139cAAAAJ:zYLM7Y9cAGgC) <strong><span class='show_paper_citations' data='gyU139cAAAAJ:zYLM7Y9cAGgC'></span></strong>  -->
+
+![](https://img.shields.io/badge/MLLM-224B8D)  ![](https://img.shields.io/badge/Ordinal Regression-224B8D) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/nips2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[STORM: Benchmarking Visual Rating of MLLMs with a Comprehensive Ordinal Regression Dataset](https://arxiv.org/pdf/2506.01738)
+
+**Jinhong Wang**, Shuo Tong, Jian Liu, Dongqi Tang, Haochao Ying, Hongxia Xu, Danny Chen, Jintai Chen, Jian Wu
+
+
+[🧑🏻‍💻 **Code**](https://github.com/aTongs1/STORM) &ensp; [🌐 **Project Page**](https://storm-bench.github.io/) <strong><span class='show_paper_citations' data='gyU139cAAAAJ:0EnyYjriUFMC'></span></strong> 
+
+![](https://img.shields.io/badge/MLLM-224B8D) ![](https://img.shields.io/badge/Ordinal Regression-224B8D) ![](https://img.shields.io/badge/Visual Rating-224B8D) 
+
+</div>
+</div>
+
 
 - `IJCAI 2025` <span style="color:red">(Oral)</span> [Dual-level Fuzzy Learning with Patch Guidance for Image Ordinal Regression](https://arxiv.org/pdf/2505.05834), Chunlai Dong, Haochao Ying, Qibo Qiu, **Jinhong Wang**, et al.
 
@@ -93,7 +122,7 @@ I am also interested **Medical Image Analysis**, **Computer Vision**, and **Gene
 
 **Jinhong Wang**, Jian Liu, Dongqi Tang, Weiqiang Wang, Wentong Li, Danny Chen, Jintai Chen, Jian Wu
 
-[🧑🏻‍💻 **Code**](https://github.com/wjh892521292/DAR) &ensp; [🌐 **Project Page**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=gyU139cAAAAJ&citation_for_view=gyU139cAAAAJ:LkGwnXOMwfcC) <strong><span class='show_paper_citations' data='gyU139cAAAAJ:LkGwnXOMwfcC'></span></strong> 
+[🧑🏻‍💻 **Code**](https://github.com/wjh892521292/DAR) &ensp; [🌐 **Project Page**](https://depth-ar.github.io/) <strong><span class='show_paper_citations' data='gyU139cAAAAJ:LkGwnXOMwfcC'></span></strong> 
 
 ![](https://img.shields.io/badge/Monocular Depth Estimation-224B8D) 
 </div>
@@ -182,6 +211,12 @@ I am also interested **Medical Image Analysis**, **Computer Vision**, and **Gene
 <div style="display: flex; align-items: center;"><img src='images/CCPC.png' width="20%" style="margin: 15px 10px 15px 10px;">
 	<ul style="margin-top: 15px;">
 		<li><i>🥈 Silver Medal 银奖</i> - 2019 China Collegiate Programming Contest, National Invitational Contest, Hunan (中国大学生程序设计竞赛全国邀请赛湖南) </li>
+	</ul>
+</div>
+
+<div style="display: flex; align-items: center;"><img src='images/cccc.jpg' width="20%" style="margin: 15px 10px 15px 10px;">
+	<ul style="margin-top: 15px;">
+		<li><i>🏅 Gold Medal 金奖</i> - <a href="https://gpltprod.ptausercontent.com/GPLT62d83c20d1e28509.pdf">2019 中国计算机团体程序设计全国总决赛</a>  </li>
 	</ul>
 </div>
 
