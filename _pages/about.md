@@ -67,7 +67,7 @@ I am also interested **Medical Image Analysis**, **Computer Vision**, and **Gene
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/iccv2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/iccv252.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OrderChain: A General Prompting Paradigm to Improve Ordinal Understanding Ability of MLLM](https://arxiv.org/pdf/2504.04801)
