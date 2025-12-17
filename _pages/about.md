@@ -70,7 +70,7 @@ I am also interested **Medical Image Analysis**, **Computer Vision**, and **Gene
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/iccv252.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OrderChain: Towards General Instruct-Tuning for Stimulating the Ordinal Understanding Ability of MLLM]([https://arxiv.org/pdf/2504.04801](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_OrderChain_Towards_General_Instruct-Tuning_for_Stimulating_the_Ordinal_Understanding_Ability_ICCV_2025_paper.html))
+[OrderChain: Towards General Instruct-Tuning for Stimulating the Ordinal Understanding Ability of MLLM](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_OrderChain_Towards_General_Instruct-Tuning_for_Stimulating_the_Ordinal_Understanding_Ability_ICCV_2025_paper.html)
 
 **Jinhong Wang**, Shuo Tong, Jian Liu, Dongqi Tang, Weiqiang Wang, Wentong Li, Hongxia Xu, Danny Chen, Jintai Chen, Jian Wu
 
