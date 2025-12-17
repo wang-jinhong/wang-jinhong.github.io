@@ -74,7 +74,7 @@ I am also interested **Medical Image Analysis**, **Computer Vision**, and **Gene
 
 **Jinhong Wang**, Shuo Tong, Jian Liu, Dongqi Tang, Weiqiang Wang, Wentong Li, Hongxia Xu, Danny Chen, Jintai Chen, Jian Wu
 
-<!-- [🧑🏻‍💻 **Code**](https://github.com/wjh892521292/Ord2Seq) &ensp; [🌐 **Project Page**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=gyU139cAAAAJ&citation_for_view=gyU139cAAAAJ:zYLM7Y9cAGgC) <strong><span class='show_paper_citations' data='gyU139cAAAAJ:zYLM7Y9cAGgC'></span></strong>  -->
+ [🧑🏻‍💻 **Code**](hhttps://github.com/aTongs1/OrderChain) &ensp; [🌐 **Project Page**](https://order-chain.github.io/) <strong><span class='show_paper_citations' data='gyU139cAAAAJ:zYLM7Y9cAGgC'></span></strong> 
 
 ![](https://img.shields.io/badge/MLLM-224B8D)  ![](https://img.shields.io/badge/Ordinal Regression-224B8D) 
 
